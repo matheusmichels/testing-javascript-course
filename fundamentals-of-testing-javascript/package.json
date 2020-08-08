@@ -1,0 +1,6 @@
+{
+  "name": "fundamentals-of-testing-javascript",
+  "scripts": {
+    "start": "node --require ./setup-globals.js test.spec.js"
+  }
+}
